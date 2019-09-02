@@ -21,6 +21,6 @@
 
 - Ejemplo:
 
-`sudo python3.7 snnifer.py -r wlp3s0 -d 192.168.0.17 -n 2 -p tcpsudo python3.7 snnifer.py -r wlp3s0 -d 192.168.0.17 -n 2 -p tcp`
+`sudo python3.7 snnifer.py -r wlp3s0 -d 192.168.0.17 -n 2 -p tcp`
 
 <p>analisis de trama con destino 192.168.0.17, numero de tramas 2, filtrado por protocolo tcp, tarjeta de red wlp3s0</p>
